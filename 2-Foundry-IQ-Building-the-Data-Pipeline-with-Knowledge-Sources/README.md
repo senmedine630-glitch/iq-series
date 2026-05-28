@@ -29,8 +29,7 @@ Ready to get hands-on? Head to the [Episode 2 Cookbook](./cookbook/) for prerequ
 
 ## 🔗 Learn More
 
-- 📖 [What is Foundry IQ?](https://learn.microsoft.com/azure/foundry/agents/concepts/what-is-foundry-iq?tabs=portal)
-- 📚 [Azure AI Foundry Documentation](https://learn.microsoft.com/azure/ai-foundry/)
+- 📖 [What is Foundry IQ?](https://learn.microsoft.com/azure/foundry/agents/concepts/what-is-foundry-i
 
 ## 💬 Community
 
